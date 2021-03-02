@@ -50,7 +50,7 @@ Instruction for BKOOL
 
 </details>
 
-<details><summary>Download and Install Windows</summary>
+<details><summary>Download and Install Bkool cycling on Windows</summary>
 ..
  
 1. Click [https://www.bkool.com/en/download/windows](https://www.bkool.com/en/download/windows) 
